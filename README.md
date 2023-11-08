@@ -1,4 +1,4 @@
-## Autorun script for XENMiner syncnode.py
+## Autorun script for XENMiner syncnode.py by @hannes_crypto
 
 ![image](https://github.com/tr4vLer/syncnode_autorun/assets/149298759/eda07440-7a5f-4b5e-bfb0-f4439167a02c)
 
