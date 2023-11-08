@@ -1,5 +1,8 @@
 ## Autorun script for XENMiner syncnode.py
 
+![image](https://github.com/tr4vLer/syncnode_autorun/assets/149298759/eda07440-7a5f-4b5e-bfb0-f4439167a02c)
+
+
 # Instruction:
 1. Kill current syncnode.py if running
 `ps aux | grep python` then `kill -9 <PID> `
